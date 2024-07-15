@@ -11,8 +11,6 @@
 - [Screenshots](#screenshots)
 - [Setup Guide](#setup-guide)
 - [Usage Instructions](#usage-instructions)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
