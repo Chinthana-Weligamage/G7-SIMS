@@ -1,0 +1,27 @@
+# Java and Maven files
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
