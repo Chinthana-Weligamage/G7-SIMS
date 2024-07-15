@@ -124,10 +124,6 @@ G7 - School Information Management System (SIMS) is a simple yet functional scho
 3. **Manage Records**: Perform CRUD operations as needed.
 4. **View Dashboard**: View summary statistics and charts.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or issues, please contact:
