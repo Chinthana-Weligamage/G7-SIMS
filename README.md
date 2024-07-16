@@ -126,6 +126,6 @@ G7 - School Information Management System (SIMS) is a simple yet functional scho
 
 For any inquiries or issues, please contact:
 
-- Name: [Your Name]
+- Name: Chinthana Weligamage
 - Email: [chinthanaweligamage1@gmail.com]
 - GitHub: [https://github.com/Chinthana-Weligamage](https://github.com/Chinthana-Weligamage)
